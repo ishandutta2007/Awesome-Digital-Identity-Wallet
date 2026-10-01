@@ -54,9 +54,9 @@ This repository tracks notable **SaaS platforms** and **open-source projects** f
 
 ## 🔓 Open-Source GitHub Projects
 
-*(Sorted descending by GitHub Star Count)*
+*(Sorted descending by GitHub Stars_Count)*
 
-| Repository / Project | Stars | Description | Focus / Stack |
+| Repository / Project | GitHub_Stars | Description | Focus / Stack |
 | :--- | :---: | :--- | :--- |
 | **[decentralized-identity/universal-resolver](https://github.com/decentralized-identity/universal-resolver)** 🌐 | [![Universal Resolver Stars](https://img.shields.io/github/stars/decentralized-identity/universal-resolver?style=social&color=white)](https://github.com/decentralized-identity/universal-resolver/stargazers) | Universal DID resolution infrastructure driver network from Decentralized Identity Foundation. | Java, Docker, W3C DID Resolution |
 | **[decentralized-identity/veramo](https://github.com/decentralized-identity/veramo)** ⚡ | [![Veramo Stars](https://img.shields.io/github/stars/decentralized-identity/veramo?style=social&color=white)](https://github.com/decentralized-identity/veramo/stargazers) | Open JavaScript/TypeScript framework for verifiable data, DID agents, credentials, and key management. | TypeScript, Node.js, React Native |
@@ -86,7 +86,7 @@ We welcome community contributions to keep this list current and comprehensive! 
 
 1. 🍴 **Fork** this repository.
 2. 📝 **Add or update** entries in `README.md` following the tabular layout.
-3. 🔗 **Include**: Name, repository link, star badge, 1–2 sentence description, and accurate pricing/star data.
+3. 🔗 **Include**: Name, repository link, Stars_Badge, 1–2 sentence description, and accurate pricing/star data.
 4. 🚀 **Submit a Pull Request** with a brief summary of your changes.
 
 ---
